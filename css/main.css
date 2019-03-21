@@ -3,7 +3,6 @@ html {
 }
 
 .event {
-  list-style: none;
   border-radius: 8px;
   border-style: solid;
 }
@@ -32,36 +31,8 @@ html {
   border-color: #6b7e54;
 }
 
-.sun {
-  width: 12em;
-}
-
-.mon {
-  width: 12em;
-}
-
-.tue {
-  width: 12em;
-}
-
-.wed {
-  width: 12em;
-}
-
-.thu {
-  width: 12em;
-}
-
-.fri {
-  width: 12em;
-}
-
-.sat {
-  width: 12em;
-}
-
 td {
-  height: 12em;
+  height: 9em;
   border-style: solid;
   border-color: #ccc;
 }
